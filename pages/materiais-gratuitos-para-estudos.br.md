@@ -46,6 +46,7 @@
 | [Codando](https://codando.org/material-gratuito/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> | [The Odin Project](https://www.theodinproject.com/) | Curso | Não | <img src="../flags/eua.png" width="40px"> |
 | [CFBCursos](https://www.youtube.com/user/canalfessorbruno) | Youtube | Não |<img src="../flags/br.jpg" width="40px"> | [Harvard University](https://pll.harvard.edu/catalog/free) | Cursos | Não | <img src="../flags/eua.png" width="40px"> |
 | [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
+| [Cisco Networking Academy](https://www.netacad.com/courses/all-courses) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> | 
 | [Code Show](https://www.youtube.com/user/brunovegan) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Código Fonte TV](https://www.youtube.com/user/codigofontetv)| Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Collabplay](https://collabplay.online/br/) |Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
@@ -89,7 +90,7 @@
 | [Minerando Dados](https://www.youtube.com/channel/UCZ8gRCp3vixlGVAtplCDd5Q) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
 | [NodeSchool](https://nodeschool.io/) | Curso | Não | <img src="../flags/br.jpg" width="40px"> |  
 | [Node.js para Iniciantes](https://treinamento.nodebr.org/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> | 
-| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> | 
+| [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [O Universo da Programação](https://www.youtube.com/c/ouniversodaprogramacao) | YouTube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Otávio Miranda](https://www.youtube.com/user/todoespacoonline) | Youtube | Não | <img src="../flags/br.jpg" width="40px"> |
 | [Prime Cursos](https://www.primecursos.com.br/) | Curso | Sim | <img src="../flags/br.jpg" width="40px"> |
